@@ -1,1 +1,1 @@
-**This is an ALX project.**
+**This is an ALX project with git init command**
